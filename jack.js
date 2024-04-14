@@ -7,3 +7,6 @@ var jack1=1;
 console.log(jack1);
 
 ok sir will you pull the consistency
+
+i know you con't do more
+  
